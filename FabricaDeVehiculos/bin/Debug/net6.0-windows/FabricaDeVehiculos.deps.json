@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FabricaDeVehiculos/1.0.0": {
+        "runtime": {
+          "FabricaDeVehiculos.dll": {}
+        }
+      },
+      "Recuperatorio primer parcial/1.0.0": {
+        "runtime": {
+          "Recuperatorio primer parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FabricaDeVehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recuperatorio primer parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

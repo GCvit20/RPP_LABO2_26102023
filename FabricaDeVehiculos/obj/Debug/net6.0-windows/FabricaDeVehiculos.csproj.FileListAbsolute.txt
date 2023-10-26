@@ -1,0 +1,21 @@
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\FabricaDeVehiculos.exe
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\FabricaDeVehiculos.deps.json
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\FabricaDeVehiculos.runtimeconfig.json
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\FabricaDeVehiculos.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\FabricaDeVehiculos.pdb
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\Recuperatorio primer parcial.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\bin\Debug\net6.0-windows\Recuperatorio primer parcial.pdb
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.csproj.AssemblyReference.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.Form1.resources
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.Properties.Resources.resources
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.csproj.GenerateResource.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.AssemblyInfoInputs.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.AssemblyInfo.cs
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.csproj.CopyComplete
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\refint\FabricaDeVehiculos.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.pdb
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\FabricaDeVehiculos.genruntimeconfig.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\FabricaDeVehiculos\obj\Debug\net6.0-windows\ref\FabricaDeVehiculos.dll

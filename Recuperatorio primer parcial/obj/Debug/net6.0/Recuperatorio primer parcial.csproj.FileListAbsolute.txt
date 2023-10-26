@@ -1,0 +1,11 @@
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\bin\Debug\net6.0\Recuperatorio primer parcial.deps.json
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\bin\Debug\net6.0\Recuperatorio primer parcial.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\bin\Debug\net6.0\Recuperatorio primer parcial.pdb
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\Recuperatorio primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\Recuperatorio primer parcial.AssemblyInfoInputs.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\Recuperatorio primer parcial.AssemblyInfo.cs
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\Recuperatorio primer parcial.csproj.CoreCompileInputs.cache
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\Recuperatorio primer parcial.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\refint\Recuperatorio primer parcial.dll
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\Recuperatorio primer parcial.pdb
+C:\Workspace\Programacion 2\RPP_LABO2_26102023\Recuperatorio primer parcial\obj\Debug\net6.0\ref\Recuperatorio primer parcial.dll
