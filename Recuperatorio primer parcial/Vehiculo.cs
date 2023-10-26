@@ -14,6 +14,7 @@
         {
             this.propulsion = propulsion;
             this.numeroDeChasis = Guid.NewGuid();
+            this.esAWD = false;
 
         }
 

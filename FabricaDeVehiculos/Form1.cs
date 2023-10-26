@@ -12,15 +12,15 @@ namespace FabricaDeVehiculos
 
         private void InicializarFabrica()
         {
-            fabrica = new Fabrica(10);
+            fabrica = new Fabrica(100);
             Camioneta camioneta = new Camioneta(Vehiculo.EPropulsion.Electrica, true);
         }
 
         private void Refrescar()
         {
-            lstVehiculos.DataSource = null; // Asigna null al DataSource del listBox
+            lstVehiculos.DataSource = null;
 
-            // Asigna la lista de vehículos de la fábrica al DataSource del listBox
+
             lstVehiculos.DataSource = fabrica.Vehiculos;
         }
 

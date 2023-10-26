@@ -112,6 +112,8 @@
             Controls.Add(txtTipoDeVehiculo);
             Controls.Add(lstVehiculos);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
             Text = "Fabrica de Vehiculos";
             Load += Form1_Load;
