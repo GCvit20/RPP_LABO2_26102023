@@ -48,5 +48,10 @@
         {
             return obj is not null && obj is Vehiculo && ((Vehiculo)obj).numeroDeChasis == this.numeroDeChasis;
         }
+
+        public override string ToString()
+        {
+            return this.GetInfo();
+        }
     }
 }
